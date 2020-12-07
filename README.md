@@ -12,7 +12,7 @@ dataBarang.xlsx: ganti juga sesuai apa yang ada pada gerai
 Sesaat program menunjukkan struknya, pada directory file yang sama, terdapat file .txt yang berupa struk dengan waktu transaksi. File ini dapat digunakan untuk diprint pada mini printer, atau pengiriman struk digital langsung kepada pelanggan.
 
 
-Program ini disusun Kelompok 9 (dari Kelas 01) dengan anggota-anggota:
+Program ini disusun Kelompok 9 (dari Kelas 01) oleh tiga anggota:
 * Aldiputera Laksamana (NIM: 16020396)
 * Fatimah Qurrota A'yun (NIM: 16020396)
 * Az Zahmawani (NIM: 16020396)
